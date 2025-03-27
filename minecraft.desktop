@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+Exec=java -jar tlaunch.jar
+Terminal=false
