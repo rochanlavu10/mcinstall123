@@ -2,7 +2,6 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install openjdk-17-jre -y
 echo OpenJdk 17 has been installed!
-mkdir ~/.minecraft
 wget https://llaun.ch/jar
 mv jar tlaunch.jar
 mkdir ~/.local/share/applications
