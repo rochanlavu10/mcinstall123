@@ -7,7 +7,7 @@
 ```
 curl -s https://raw.githubusercontent.com/rochanlavu10/mcinstall123/refs/heads/main/setup123.sh | bash
 ```
-## Steps to install iptimization mods for Minecraft 1.21.4 (fabric)
+## Steps to install optimization mods for Minecraft 1.21.4 (fabric)
 1: Copy and paste the script below in a linux terminal
 ```
 curl -s https://raw.githubusercontent.com/rochanlavu10/mcinstall123/refs/heads/main/optimization-mods-1.21.4-fabric.sh | bash
