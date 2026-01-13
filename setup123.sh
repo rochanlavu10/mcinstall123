@@ -8,3 +8,4 @@ mkdir ~/.local/share/applications
 wget -P ~/.local/share/applications https://raw.githubusercontent.com/rochanlavu10/mcinstall123/refs/heads/main/minecraft.desktop
 wget -P ~/.tlauncher https://raw.githubusercontent.com/rochanlavu10/mcinstall123/refs/heads/main/legacy.properties
 java -jar tlaunch.jar
+xmessage "Minecraft launcher (tlauncher legacy) has been installed! You can now click "Minecraft" in the application launcher to open it"
